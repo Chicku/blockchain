@@ -15,7 +15,10 @@ Kim Letkeman - Initial Contribution
 */
 
 // ************************************
-
+// Alerts package
+// KL 16 Feb 2016 Initial alert package
+// KL 22 Feb 2016 add AllClear method and associated constant
+// KL 18 Apr 2016 Adapt new external JSON alerts (names instead of booleans) from orig 3.1/4.0
 // ************************************
 
 package main
